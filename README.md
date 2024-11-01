@@ -7,8 +7,7 @@
 <h2> Software Development Projects </h2>
 
 - <b> Python </b>
-  - Golf Handicap Calculator Application (In Progress)
-    - TODO: Golf Handicap Calculator Link
+  - [Golf Handicap Calculator Application](https://github.com/byork6/Handicap-Calculator-Demo) (In Progress)
  
 <h2> Embedded Development Projects </h2>
 
