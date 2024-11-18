@@ -11,8 +11,8 @@
  
 <h2> Embedded Development Projects </h2>
 
-- <b> C/C++ </b>
-  - TODO: Infant Sleep Apnea Monitor (In Progress)
+- <b> C </b>
+  - [SafeBeat Infant Sleep Apnea Monitor](https://github.com/byork6/SafeBeat-Infant-Monitor-Demo) (In Progress)
 
 <h2> Hardware Development Projects </h2>
 
