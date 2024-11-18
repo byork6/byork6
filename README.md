@@ -17,8 +17,10 @@
 <h2> Hardware Development Projects </h2>
 
 - <b> DC/DC Converters </b>
-  - TODO: LLC Resonant Converter (In Progress)
-
+  - [LLC Resonant Converter](https://github.com/byork6/LLC-Resonant-Converter-Demo) (In Progress)
+- <b> Voltage Controlled Oscillators </b>
+  - [Shunt-Fed Hartley Oscillator](https://github.com/byork6/Shunt-Fed-Hartley-Oscillator-Demo)
+ 
 
 <h2> Connect with me</h2>
 
