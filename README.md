@@ -1,6 +1,14 @@
 <h1>Hi, I'm Brian York!</h1>
-  I am an aspiring electrical engineer in my final semester at Texas A&M University. I began my college career attending the University of Texas at Dallas, where I studied electrical engineering and played NCAA Division III baseball. I later transferred to Texas A&M, where I now study electronic systems engineering. This transition has broadened my experience beyond that of a typical new graduate, and I have gained valuable knowledge along the way. I am interested in both software and hardware development and also have found a strong passion for engineering during my college years.
-  
+<p>
+  I am an electrical engineer, and a fightin' Texas Aggie class of 2025. 
+  I began my college career attending the University of Texas at Dallas, where I studied electrical engineering and played NCAA Division III baseball. 
+  I later transferred to Texas A&M, where I studied electronic systems engineering. This transition has broadened my experience beyond that of a typical new graduate, and I have gained valuable knowledge along the way. 
+  I am interested in both software and hardware development and also have found a strong passion for engineering during my college years. 
+  I have had two previous electrical engineering internships, one at Transocean with focus on power plant support and design for drillships, and another at BASF with a simlar focus for chemical plants. 
+  After graduating in May of 2025, I secured a job at a defense contracting company called GaardTech US, where I still work today. At this job I have responsibilities that range from python software development (with focus on machine learning), 
+  embedded development (for robotics), and hardware development/testing for electronic systems with robotic applications.  
+</p>
+
 <h2> Description </h2>  
   This repository showcases various projects I have contributed to, along with other relevant experiences. Some of these projects were done independently, while others were collaborative efforts. You may also find that some projects, as well as this repository itself, are still a work in progress. I hope you find the current content informative and engaging.
 
