@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brian York!</h1>
 <p>
-  I am an electrical engineer, and a fightin' Texas Aggie class of 2025. 
+  I am an electrical engineer, and a fightin' Texas Aggie, class of 2025. 
   I began my college career attending the University of Texas at Dallas, where I studied electrical engineering and played NCAA Division III baseball. 
   I later transferred to Texas A&M, where I studied electronic systems engineering. This transition has broadened my experience beyond that of a typical new graduate, and I have gained valuable knowledge along the way. 
   I am interested in both software and hardware development and also have found a strong passion for engineering during my college years. 
