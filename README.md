@@ -13,14 +13,14 @@
 <h2> Embedded Development Projects </h2>
 
 - <b> C </b>
-  - [SafeBeat Infant Sleep Apnea Monitor](https://github.com/byork6/SafeBeat-Infant-Monitor-Demo) (In Progress)
+  - [SafeBeat Infant Sleep Apnea Monitor](https://github.com/byork6/SafeBeat-Infant-Monitor-Demo) (Completed)
 
 <h2> Hardware Development Projects </h2>
 
 - <b> DC/DC Converters </b>
   - [LLC Resonant Converter](https://github.com/byork6/LLC-Resonant-Converter-Demo) (In Progress)
 - <b> Voltage Controlled Oscillators </b>
-  - [Shunt-Fed Hartley Oscillator](https://github.com/byork6/Shunt-Fed-Hartley-Oscillator-Demo)
+  - [Shunt-Fed Hartley Oscillator](https://github.com/byork6/Shunt-Fed-Hartley-Oscillator-Demo) (Completed)
  
 
 <h2> Connect with me</h2>
